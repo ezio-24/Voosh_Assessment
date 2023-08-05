@@ -5,4 +5,4 @@ Find the testing Script in Bellow Structure
 Voosh_Assessment <br>
 ├── cypress <br>
 &nbsp;- ├── e2e <br>
-&nbsp; &nbsp; └── navbar.cy.js <br>
+&nbsp; &nbsp; &nbsp; └── navbar.cy.js <br>
